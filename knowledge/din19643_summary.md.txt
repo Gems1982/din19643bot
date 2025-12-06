@@ -1,0 +1,54 @@
+# DIN 19643 — Summary (Legally Safe Reformulation)
+
+DIN 19643 governs the treatment of swimming pool and bathing water in public facilities in Germany. Its purpose is to ensure hygienic, chemical, and physical water safety for bathers.
+
+## Core Principles
+- Continuous recirculation and treatment of pool water.
+- Defined turnover rates depending on pool type and load.
+- Multi-stage treatment train required:
+  1. Mechanical separation (filtration)
+  2. Adsorptive removal (activated carbon depending on subtype)
+  3. Oxidation/disinfection (chlorine-based)
+  4. pH control
+  5. Optional flocculation/precipitation
+
+## DIN 19643 Process Types
+The standard defines multiple permissible “process chains”. Samples:
+
+- Type 1: Flocculation + Filtration + Chlorination
+- Type 2: Flocculation + Granular Activated Carbon + Filtration + Chlorination
+- Type 3: Powder activated carbon + Filtration + Chlorination
+- Type 4: Membrane filtration (UF) + Chlorination (used in modern pools)
+
+## Key Performance Requirements
+- Defined filter velocity limits (typically ~30 m/h for public pools; exact values depend on design).
+- Minimum free chlorine residual.
+- pH control in a narrow operating range.
+- Turbidity thresholds for treated water.
+- Redox levels within operational range.
+- TOC removal dependent on selected process type.
+
+## Hydraulic Requirements
+- Even distribution of inlet and outlet flows.
+- Defined surface extraction rates (skimmers or overflow gutters).
+- Sufficient bottom extraction for hydraulically quiet zones.
+- Avoidance of untreated pockets.
+- Guaranteed turnover per basin type (e.g., toddler pools faster than sports pools).
+
+## Monitoring Requirements
+DIN 19643 requires continuous monitoring of:
+- Free chlorine
+- Combined chlorine / chloramines
+- pH value
+- Redox potential
+- Temperature
+- Turbidity (NTU/TE/FNU depending on device)
+
+Daily manual checks are required to supplement sensors.
+
+## Safety Notes
+- Dosing installations must follow German TRGS regulations.
+- Backwash water must achieve defined rinse quality.
+- Chemicals must be stored and prepared according to safety law.
+
+This summary is legally safe and does not reproduce any copyrighted text.

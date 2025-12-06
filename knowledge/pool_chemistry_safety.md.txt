@@ -1,0 +1,25 @@
+# Safety Principles in Pool Water Chemistry
+
+## General Safety
+- Never mix chemicals directly.
+- Always add chemicals using dosing pumps.
+- Follow German TRGS and operator safety rules.
+- Use PPE for all handling.
+
+## Chlorine Safety
+- Gas chlorine requires certified handling procedures.
+- Liquid chlorine (hypochlorite) degrades with temperature and UV.
+- Store separately from acids.
+
+## Acid Safety
+- Used for pH control.
+- Must not contact chlorine products.
+- Dosing lines must be entirely separate.
+
+## Flocculant Safety
+- Typically PAC-based.
+- Avoid overdosing → can clog filters.
+
+## Backwash Safety
+- Ensure no backflow into clean water system.
+- Observe temperature limits in wastewater.

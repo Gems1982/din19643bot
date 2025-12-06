@@ -1,0 +1,56 @@
+# Water Treatment Basics for Public Pools
+
+## Treatment Train Overview
+Public pool water must pass through a continuous cycle:
+1. Pool → 2. Balance tank → 3. Pump → 4. Flocculant → 5. Filter → 6. Adsorption stage (if used) → 7. Heating → 8. Chemical dosing → 9. Return to pool
+
+## Filtration
+Goals:
+- Remove suspended solids
+- Reduce turbidity
+- Create stable disinfection conditions
+
+Typical sand/AFM filter specs:
+- Bed depth: 1.0–1.2 m
+- Multi-layer mix possible (coarse → fine)
+- Filtration velocity: 20–30 m/h for public pools
+
+## Backwash
+Performed daily or based on pressure differential.
+Critical elements:
+- Sufficient flow (~55–60 m/h bed expansion)
+- Separate rinse stage until water is clear
+- Air scour (optional) to break compaction
+
+## Disinfection
+Chlorine remains mandatory for DIN-compliant public pools.
+Important parameters:
+- Free chlorine residual (min/max defined by regulation)
+- Combined chlorine (indicator for chloramines)
+- CT value logic is used for hygiene safety
+
+## pH Control
+Ideal operational window: typically 6.8–7.4  
+pH directly influences:
+- Chlorine disinfection power
+- Comfort for swimmers
+- Scale/corrosion behavior
+
+## Flocculation
+Essential for removing:
+- Micro-particles <10 microns
+- Dissolved organic substances
+- Colloids
+
+Continuous dosing via PAC (poly-aluminum compounds).
+
+## Heating & Energy
+- Plate heat exchangers common
+- Heat pumps increasingly used
+- Recovery from backwash and wastewater possible
+
+## Goals of Treatment Design
+- Stable chemistry
+- Minimal chloramine generation
+- High clarity (<0.3 NTU)
+- Safe microbiological performance
